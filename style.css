@@ -68,7 +68,9 @@ a:hover{
 .profile{
     padding:1em;
 }
-.profile-pic{}
+.img-pic{
+    width:200px;
+}
 .about-me-text{
     padding:1em;
 }
