@@ -4,7 +4,7 @@
     --third-color: #990099;
     --fourth-color: black;
     --font:'Raleway';
-    --shadow:0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    --shadow:0 6px 12px rgba(0,0,0,0.16), 0 6px 12px rgba(0,0,0,0.23);
 }
 html{font-size: calc(1em+ 1vw);}
 button{font-size:inherit}
