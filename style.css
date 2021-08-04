@@ -16,7 +16,6 @@ body{
     background-color: var(--first-color);
     padding-top: 4rem;
     display:grid;
-    justify-items:center;
 }
 .banner{
     width: 100%;
@@ -51,6 +50,7 @@ a:hover{
 .banner ul{
     list-style-type: none;
 }
+
 .banner li{
     display: inline;
     margin: 1rem;
