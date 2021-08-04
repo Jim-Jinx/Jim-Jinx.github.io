@@ -16,6 +16,7 @@ body{
     background-color: var(--first-color);
     padding-top: 4rem;
     display:grid;
+    justify-items:center;
 }
 .banner{
     width: 100%;
@@ -57,13 +58,14 @@ a:hover{
 }
 
 .about-me{
-    display: flex;
+    display:flex;
     width: 80vw;
     padding:1rem;
     margin:.5rem;
     border-radius:6px;
     background-color:var(--second-color);
     box-shadow: var(--shadow);
+    
 }
 .profile{
     padding:1em;
